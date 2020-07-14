@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: rgba(200,200,200,0.2);
+	font-family: 'Montserrat', sans-serif;
+	line-height: 3rem;
+}
+.button1{
+	padding: 12px 25px;
+	background-color: #00b300;
+	border: 1px solid black;
+	color: white;
+	font-size: 1.1rem;
+}
+.text_show{
+	margin: 20px;
+}
